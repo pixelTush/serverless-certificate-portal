@@ -6,7 +6,7 @@ Tushar 24BCE5552
 A fully serverless, end-to-end cloud application that generates, emails, and cryptographically verifies digital certificates. Built entirely on AWS native services, this project demonstrates event-driven architecture, RESTful API design, and cloud database management.
 
 ## 🚀 Live Demo
-- **Frontend:** Hosted on AWS S3 *(Note: Live AWS resources will be spun down after academic grading to prevent cloud charges.)*
+- **Frontend:** Hosted on AWS S3 *(http://tushar-certs-ui-2026.s3-website-ap-southeast-2.amazonaws.com/)*
 - **API Endpoint:** AWS API Gateway
 
 ## 🏗️ Architecture & Tech Stack
